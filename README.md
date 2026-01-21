@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarmhmdd&label=Profile%20views&color=0e75b6&style=flat-square" alt="omarmhmdd" />
-  <img src="https://github-profile-trophy.vercel.app/?username=omarmhmdd&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
 </p>
 
 </div>
@@ -37,22 +36,16 @@
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarmhmdd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmhmdd&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarmhmdd&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmhmdd&layout=compact&theme=transparent" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarmhmdd&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarmhmdd&theme=transparent" alt="streak stats" />
 </div>
 
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/Omarmhmdd" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:omar.samir.mhmdd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</p>
+* **LinkedIn:** [linkedin.com/in/Omarmhmdd](https://linkedin.com/in/Omarmhmdd)
+* **Email:** omar.samir.mhmdd@gmail.com
