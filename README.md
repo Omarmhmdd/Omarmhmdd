@@ -18,7 +18,7 @@
 
 ### 🔭 Currently Focused On
 - **Lead Development:** Engineering [Tandem](https://github.com/Omarmhmdd/Tandem)—a production-ready AI wellness platform on AWS.
-- **Innovation:** Developing the **Autonomous Smart Glove** for assistive communication.
+- **Innovation:** Scaling the **Autonomous Smart Glove** for assistive communication.
 - **Technical Contributions:** Developing high-concurrency Java modules and architectural improvements.
 
 ### 🛠️ Tech Stack & Professional Tools
@@ -39,8 +39,8 @@
 
 ### 📊 Performance Metrics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarmhmdd&show_icons=true&theme=base" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmhmdd&layout=compact&theme=base" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarmhmdd&show_icons=true&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmhmdd&layout=compact&theme=nord" />
 </div>
 
 ---
